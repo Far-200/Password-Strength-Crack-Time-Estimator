@@ -57,3 +57,5 @@ password-strength-checker
 ├─ package.json
 ├─ index.html
 └─ README.md
+
+- Project halted.
